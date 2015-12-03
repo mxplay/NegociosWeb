@@ -55,8 +55,15 @@
           case "servicios":
             require_once("controllers/servicios.control.php");
             break;
+          case "iniciarsesion":
+            require_once("controllers/iniciarsesion.control.php");
+            break;
+          case "cursos":
+          require_once("controllers/cursos.control.php");
+          break;
         default:
             require_once("controllers/error.control.php");
+
     }
 
 
