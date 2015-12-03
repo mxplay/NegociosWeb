@@ -13,7 +13,7 @@
     </li>
     <li><a href="index.php?page=actividades">Actividades</a></li>
     <li><a href="">Contacto</a></li>
-    <li><a href="">Iniciar Sesion</a></li>
+    <li><a href="index.php?page=iniciarsesion">Iniciar Sesion</a></li>
   </ul>
 </nav>
 </div>
